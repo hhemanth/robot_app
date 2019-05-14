@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## Problem 
 https://github.com/hhemanth/robot_app/blob/master/problem.txt
 
@@ -17,7 +16,6 @@ ruby mail_file.rb
 
 #### command_executor_spec.rb is the integartion test, which creates objects, plugs them together
 ## Things I am proud of
-=======
  
 - I have written a lot of cases. I have done decent error handling. 
 - I believe this is fairly extensible solution.
